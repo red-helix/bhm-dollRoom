@@ -1,0 +1,1 @@
+This repo stores a few simple Arduino sketches for controlling the servo dolls at Barrett's. I prefer Arduino over ESP32, as I have no physical access to the board during operating hours and it tolerates voltage drops better. If you want to build this on ESP32 that's fine, just use the esp32 servo library instead.
